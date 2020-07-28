@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>YouSeeBIGGIRL/T:T</title>
+      <link href="/posts/3ac4ec90/"/>
+      <url>/posts/3ac4ec90/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="‘YouSeeBIGGIRL-T-T’"><a href="#‘YouSeeBIGGIRL-T-T’" class="headerlink" title="‘YouSeeBIGGIRL/T:T’"></a>‘YouSeeBIGGIRL/T:T’</h1>        <div id="aplayer-oOwGUJqY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-oOwGUJqY"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "YouSeeBIGGIRL/T:T",              author: "乙秋qwq",              url: "https://music.163.com/#/song?id=1457129253",              pic: "https://s1.ax1x.com/2020/07/28/aARY3F.md.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><div class="note primary no-icon">            <p>在座的的各位都是叛徒…</p>          </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 楽譜 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音楽 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇文章</title>
       <link href="/posts/7a776471/"/>
       <url>/posts/7a776471/</url>
